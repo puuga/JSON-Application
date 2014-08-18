@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSON-Application.iml" filepath="$PROJECT_DIR$/JSON-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/android-query-full.0.26.8.jar/android-query-full.0.26.8.jar.iml" filepath="$PROJECT_DIR$/libs/android-query-full.0.26.8.jar/android-query-full.0.26.8.jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
+
